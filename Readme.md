@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Venera](https://up.htmlacademy.ru/htmlcss/26/user/1073341).
+* Студент: [Венера](https://up.htmlacademy.ru/htmlcss/25/user/1073341).
 
 ---
 
@@ -17,7 +17,7 @@ _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`
 
 #### 2. Создайте форк
 
-[Откройте мастер-репозиторий](https://github.com/htmlacademy-htmlcss/1073341-barbershop-26) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
+[Откройте мастер-репозиторий](https://github.com/htmlacademy-htmlcss/1073341-barbershop-25) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
 
 <img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037894-3cff89c2-7bae-11e7-8bae-a640a044bb03.jpg">
 
