@@ -171,31 +171,75 @@ a {
   opacity: 0.5;
 }
 
-/* РАЗОБРАТЬ ПОЗЖЕ!
-
 .catalog-list {
   list-style: none;
 }
 
-.catalog-category {
+.catalog-item {
+  background-color: #f8f8f8;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.catalog-item:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.catalog-item a {
+  color: #000000;
+}
+
+.catalog-item h3 {
   font-size: 14px;
   line-height: 18px;
 }
 
-.catalog-item-title {
-  text-transform: appercase;
+.catalog-category {
+  text-transform: none;
 }
 
-.catalog-item-image {
+.catalog-item-price b {
+  font-size: 14px;
+  line-height: 18px;
+  text-align: center;
+
+  background-color: #e5e5e5;
+}
+
+.catalog-item-price .button {
+  line-height: 18px;
+  color: #ffffff;
+}
+
+.pagination-list {
+  list-style: none;
+}
+
+.pagination-item a {
+  color: #ffffff;
+
+  background-color: #000000;
+
+}
+
+.pagination-item a:hover,
+.pagination-item a:focus,
+.pagination-item a:active {
+  background-color: #663d15;
+}
+
+.pagination-item-current a {
+  color: #000000;
+
   background-color: #ffffff;
 }
 
-.catalog-item-price {
-  background-color: #a9a7a5;
-}*/
+.pagination-item-current a:hover,
+.pagination-item-current a:focus,
+.pagination-item-current a:active {
+  color: #000000;
 
-
-
+  background-color: #ffffff;
+}
 
 .main-footer {
   color: #ffffff;
