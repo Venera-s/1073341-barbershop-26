@@ -650,7 +650,7 @@ input[type="radio"].visually-hidden {
   width: 43px;
   height: 43px;
 
-  color: #000000;
+  background-color: #000000;
 }
 
 .social-button:hover,
