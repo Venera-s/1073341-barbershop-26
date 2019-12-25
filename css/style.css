@@ -1112,9 +1112,6 @@ input[type="radio"].visually-hidden {
   box-shadow: 0 30px 50px rgba(0, 0, 0, 0.7);
 }
 
-.modal-error {
-  animation: shake 0.6s;
-}
 
 .modal-login {
   top: 120px;
@@ -1154,6 +1151,10 @@ input[type="radio"].visually-hidden {
 .modal-show {
   display: block;
   animation: bounce 0.6s;
+}
+
+.modal-error {
+  animation: shake 0.6s;
 }
 
 .modal-close {
